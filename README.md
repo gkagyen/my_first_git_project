@@ -13,5 +13,5 @@ my_dir <- file.path('~', 'demo_repo')
 git_clone(https://github.com/gkagyen/my_first_git_project, my_dir)
 
 # change into the repo
-setdw(my_dir)
+setwd(my_dir)
 ```
